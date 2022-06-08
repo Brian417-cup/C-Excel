@@ -24,4 +24,4 @@ C#连接Excel并执行SQL操作
 
 # 样例测试
   /bin/Release/CSharpForExcel.vshost.exe  直接打开运行即可  
-  另：配备一个"/bin/Release/员工清点的规范数据.xls" 来进行测试规范
+  另：配备一个"/bin/Release/测试数据.xls" 来进行测试规范
