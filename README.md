@@ -20,3 +20,8 @@ C#连接Excel并执行SQL操作
   ## 支持格式
     Excel 2003 格式的文件(Windows系统的电脑上要安装Office2010 或更高版本 WPS可能不行) 或  .csv格式文件(推荐！，可以在不装有Office或WPS的电脑上进行导出)
   
+
+
+# 样例测试
+  /bin/Release/CSharpForExcel.vshost.exe  直接打开运行即可  
+  另：配备一个"/bin/Release/员工清点的规范数据.xls" 来进行测试规范
