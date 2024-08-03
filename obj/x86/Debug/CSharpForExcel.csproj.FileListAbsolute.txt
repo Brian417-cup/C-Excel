@@ -1,0 +1,13 @@
+E:\CSharp_Worksapce\CSharpExcel\obj\x86\Debug\CSharpForExcel.csproj.AssemblyReference.cache
+E:\CSharp_Worksapce\CSharpExcel\obj\x86\Debug\Interop.Office.dll
+E:\CSharp_Worksapce\CSharpExcel\bin\Debug\CSharpForExcel.exe.config
+E:\CSharp_Worksapce\CSharpExcel\bin\Debug\CSharpForExcel.exe
+E:\CSharp_Worksapce\CSharpExcel\bin\Debug\CSharpForExcel.pdb
+E:\CSharp_Worksapce\CSharpExcel\obj\x86\Debug\CSharpForExcel.csproj.ResolveComReference.cache
+E:\CSharp_Worksapce\CSharpExcel\obj\x86\Debug\CSharpForExcel.Form1.resources
+E:\CSharp_Worksapce\CSharpExcel\obj\x86\Debug\CSharpForExcel.Form2.resources
+E:\CSharp_Worksapce\CSharpExcel\obj\x86\Debug\CSharpForExcel.Properties.Resources.resources
+E:\CSharp_Worksapce\CSharpExcel\obj\x86\Debug\CSharpForExcel.csproj.GenerateResource.cache
+E:\CSharp_Worksapce\CSharpExcel\obj\x86\Debug\CSharpForExcel.csproj.CoreCompileInputs.cache
+E:\CSharp_Worksapce\CSharpExcel\obj\x86\Debug\CSharpForExcel.exe
+E:\CSharp_Worksapce\CSharpExcel\obj\x86\Debug\CSharpForExcel.pdb
